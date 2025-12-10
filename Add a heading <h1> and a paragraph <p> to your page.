@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Basic HTML Page</title>
+  <title>program </title>
 </head>
 <body>
-    <h1>My Heading</h1>
-    <p>This is a paragraph.</p>
+  <h1>Hi there!</h1>
+  <p>hellllloooo.</p>
 </body>
 </html>
