@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Basic HTML Page</title>
+</head>
+<body>
+    <h1>My Heading</h1>
+    <p>This is a paragraph added to the page.</p>
+</body>
+</html>
