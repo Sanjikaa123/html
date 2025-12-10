@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Page with Image</title>
+</head>
+<body>
+    <h1>Welcome!</h1>
+    <p>Here is an image below:</p>
+    
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3-300x300.png" alt="Sample image" />
+</body>
+</html>
+
+  
